@@ -1,0 +1,11 @@
+C:\Users\Shane D Wilson\source\repos\PlayersGuideChapter10\PlayersGuideChapter10\bin\Debug\netcoreapp2.1\PlayersGuideChapter10.deps.json
+C:\Users\Shane D Wilson\source\repos\PlayersGuideChapter10\PlayersGuideChapter10\bin\Debug\netcoreapp2.1\PlayersGuideChapter10.runtimeconfig.json
+C:\Users\Shane D Wilson\source\repos\PlayersGuideChapter10\PlayersGuideChapter10\bin\Debug\netcoreapp2.1\PlayersGuideChapter10.runtimeconfig.dev.json
+C:\Users\Shane D Wilson\source\repos\PlayersGuideChapter10\PlayersGuideChapter10\bin\Debug\netcoreapp2.1\PlayersGuideChapter10.dll
+C:\Users\Shane D Wilson\source\repos\PlayersGuideChapter10\PlayersGuideChapter10\bin\Debug\netcoreapp2.1\PlayersGuideChapter10.pdb
+C:\Users\Shane D Wilson\source\repos\PlayersGuideChapter10\PlayersGuideChapter10\obj\Debug\netcoreapp2.1\PlayersGuideChapter10.csprojAssemblyReference.cache
+C:\Users\Shane D Wilson\source\repos\PlayersGuideChapter10\PlayersGuideChapter10\obj\Debug\netcoreapp2.1\PlayersGuideChapter10.csproj.CoreCompileInputs.cache
+C:\Users\Shane D Wilson\source\repos\PlayersGuideChapter10\PlayersGuideChapter10\obj\Debug\netcoreapp2.1\PlayersGuideChapter10.AssemblyInfoInputs.cache
+C:\Users\Shane D Wilson\source\repos\PlayersGuideChapter10\PlayersGuideChapter10\obj\Debug\netcoreapp2.1\PlayersGuideChapter10.AssemblyInfo.cs
+C:\Users\Shane D Wilson\source\repos\PlayersGuideChapter10\PlayersGuideChapter10\obj\Debug\netcoreapp2.1\PlayersGuideChapter10.dll
+C:\Users\Shane D Wilson\source\repos\PlayersGuideChapter10\PlayersGuideChapter10\obj\Debug\netcoreapp2.1\PlayersGuideChapter10.pdb
